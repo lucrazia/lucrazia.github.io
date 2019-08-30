@@ -19,7 +19,7 @@ Syntax highlighted code block
 ```
 
 
-print('hello'+' '+'10086')
+ssssssprint('hello'+' '+'10086')
 
 
 下面是套话：
